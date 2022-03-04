@@ -1,5 +1,12 @@
 # Devil-Vps-Manager
 
+___Update System Packages and Install SCRIPT___
+
+```
+
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/Devil-VPS-MANAGER/main/devil; chmod 777 devil;./devil
+
+```
 
 ## ✨ Features:
 | Feature | Description |
@@ -13,20 +20,12 @@
 | `Change Limit` | Change Limit Of users |
 | `LOOK SCREEN SHOT FOR SCROLL DOWN` 
 
-## 🎭 Interface
+## 🎭 Screen Shots
 <p align="center">
   <img src="https://telegra.ph/file/6786282a829b57b501687.png">
  <img src="https://telegra.ph/file/a05c293b3379276365d99.png">
 </p>
 
-
-___Update System Packages and Install SCRIPT___
-
-```
-
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/Devil-VPS-MANAGER/main/devil; chmod 777 devil;./devil
-
-```
 ___Based on___
 
  <p>    
