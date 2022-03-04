@@ -7,7 +7,7 @@ ___Update System Packages and Install SCRIPT___
 
 ```
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/Devil-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/Devil-VPS-MANAGER/main/devil; chmod 777 devil;./devil
 
 ```
 ___Screenshots___
