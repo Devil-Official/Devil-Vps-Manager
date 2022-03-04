@@ -13,7 +13,7 @@ menu() {
 
     local msg
         msg="◇──────────────────◇\n"
-        msg+="<b>•🔹•ㅤ😇ㅤDevil VPS MANAGERㅤ😇ㅤ•🔹•</b>\n"
+        msg+="<b>•🔹• ㅤDevil VPS MANAGER ㅤ•🔹•</b>\n"
         msg+="◇──────────────────◇\n\n"
         ShellBot.sendMessage --chat_id ${message_chat_id[$id]} \
         --text "$(echo -e $msg)" \
