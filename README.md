@@ -1,6 +1,6 @@
 # Devil-Vps-Manager
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+
 
 
 ___Update System Packages and Install SCRIPT___
@@ -10,7 +10,9 @@ ___Update System Packages and Install SCRIPT___
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/OsharaShaveen/Devil-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
 
 ```
+___Screenshots___
 
+<details>
+  <summary><p><b>Click To View [Terminal] </b><div class="div0"> <span><a href=""><img src="https://user-images.githubusercontent.com/83800532/143572065-ca450924-e72b-4041-ab31-3798618973f4.png" alt=""width="30"height="30"/><span><a href=""><img src="https://user-images.githubusercontent.com/83800532/144479843-ab04c6b5-9514-4863-b714-a1b391f42b27.png" alt=""width="30"height="30"/></a></span></p></summary></div>
+<br/>
 
-Secial Thanks To Single Developers ❤️
-This Script Based On Dragon Vps Managaer 🙂
