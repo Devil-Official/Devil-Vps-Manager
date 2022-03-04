@@ -41,7 +41,7 @@ fi
 while true
 do
 	clear
-	echo -e "\E[42;1;37m            ㅤ😇ㅤDROPBEAR LIMITERㅤ😇ㅤ             \E[0m"
+	echo -e "\E[42;1;37m             ㅤDROPBEAR LIMITER ㅤ             \E[0m"
     echo -e "\E[42;1;37m◇Ususario                      ◇Connection¦Limite\E[0m"
     while read usline
     do
