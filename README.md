@@ -11,6 +11,7 @@
 | `online user monitor` | see online users |
 | `change date` | resume the streaming (admin only) |
 | `Change Limit` | Change Limit Of users |
+| `LOOK SCREEN SHOT FOR SCROLL DOWN` |
 
 
 ___Update System Packages and Install SCRIPT___
