@@ -23,3 +23,11 @@ ___Based on___
   <span><a href=""><img src="https://github.com/januda-ui/januda-ui/blob/main/icons/clip-internet-security.png?raw=true" alt=""width="50"height="50"/></a></span>
 </div>
  </p>
+
+___Update System Packages and Install SCRIPT___
+
+```
+
+SPecial Thanks To Akarsha For Give Me Request\nSome Codes Are Based In DRGON VPS Manager
+
+```
