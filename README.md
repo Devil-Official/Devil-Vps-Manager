@@ -10,7 +10,7 @@
 | `remove created user` | Created user remove |
 | `online user monitor` | see online users |
 | `change date` | resume the streaming (admin only) |
-| `/skip` | switch to next stream (admin only) |
+| `Change Limit` | Change Limit Of users |
 | `/stop` | end the streaming (admin only) |
 | `/vmute` | for mute the userbot on voice chat |
 | `/vunmute` | for unmute the userbot on voice chat |
