@@ -20,7 +20,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/Os
 | `online user monitor` | see online users |
 | `change date` | CHANGE ssh expire date |
 | `Change Limit` | Change Limit Of users |
-| `AND MORE | LOOK SCREEN SHOT FOR SCROLL DOWN |
+| AND MORE | LOOK SCREEN SHOT FOR SCROLL DOWN |
 
 ## 🎭 Screen Shots
 <p align="center">
