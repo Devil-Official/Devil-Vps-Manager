@@ -28,6 +28,7 @@ ___Update System Packages and Install SCRIPT___
 
 ```
 
-SPecial Thanks To Akarsha For Give Me Request\nSome Codes Are Based In DRGON VPS Manager
+~ SPecial Thanks To Akarsha For Give Me Request
+~ Some Codes Are Based In DRGON VPS Manager
 
 ```
